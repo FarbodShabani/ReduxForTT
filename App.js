@@ -10,7 +10,11 @@ import {
 
 class App extends Component {
   render() {
-    return <View />;
+    return (
+      <View>
+        <Text> hi there</Text>
+      </View>
+    );
   }
 }
 
